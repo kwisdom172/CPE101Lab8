@@ -1,2 +1,2 @@
 def name():
-   return("Katlynn")
+   return("Katlynn Wisdom")
